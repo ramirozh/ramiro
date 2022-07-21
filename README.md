@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @ramir2022
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m @ramiro
+- 👀 I’m interested in ... programming 
+- 🌱 I’m currently learning ... Python and JS
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ... ramazheng@gmail.com
 
-<!---
-ramir2022/ramir2022 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
